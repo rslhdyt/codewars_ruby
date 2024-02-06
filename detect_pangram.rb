@@ -5,5 +5,6 @@ def pangram?(string)
   ('a'..'z').all? { |c| string.downcase.include? c }
 end
 
+# Code Explanation
 # the (a..z) is a range of letters will generate array of alhphabet letters from a to z
 # the all? method will iterate through the range and check if each letter is included in the string
