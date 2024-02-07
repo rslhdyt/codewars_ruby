@@ -1,4 +1,4 @@
-# code wars link: https://www.codewars.com/kata/556deca17c58da83c00002db/train/ruby
+# codewars link: https://www.codewars.com/kata/556deca17c58da83c00002db/train/ruby
 # The method tribonacci takes an array of 3 integers and an integer n as arguments and returns an array of the first n elements of the sequence. 
 # The method appends the sum of the last 3 elements of the array to the array n times. 
 # The method returns the first n elements of the array using the slice method.
